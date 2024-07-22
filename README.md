@@ -102,4 +102,9 @@ A learning curve is plotted at the end of the code to visualize the agent's perf
 
 ![Learning Curve](learning_curve.png)
 
-
+## Team Members
+- [Ahmed Selim Mahmoud](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Hager Mohamed Ahmed](https://www.linkedin.com/in/hager-hagezy-4253a4250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mariam Hassan Elsaka](https://www.linkedin.com/in/mariam-el-saka-18a195224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Arwa Mohamed Ali](https://www.linkedin.com/in/arwa-mohamed-375793318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Nour Saif](https://www.linkedin.com/in/ACoAAEKlKlMBMYRSMzKFxNyVDliYxfSmYzpgfoQ?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BW45yY8MQRi%2BvH2ZM9tP6tw%3D%3D)
